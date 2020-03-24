@@ -6,7 +6,21 @@
       "Andares": [
         {
           "id": 1,
-          "Nome" : "Terreo"
+          "Nome" : "Terreo",
+          "Salas": [
+            {
+              "id": "1",
+              "Nome": "Sala 1",
+              "qtdParticipantes": "02",
+              "Atendimento Especial": "S"
+            },
+            {
+               "id": "2",
+               "Nome": "Sala 2",
+               "qtdParticipantes": "02",
+               "Atendimento Especial": "N"
+            }
+          ] 
         }        
       ]
     },
