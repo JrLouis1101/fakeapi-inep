@@ -12,7 +12,27 @@
               "id": "1",
               "Nome": "Sala 1",
               "qtdParticipantes": "02",
-              "Atendimento Especial": "S"
+              "Atendimento Especial": "S",
+              "Participantes": [
+                {
+                  "Inscricao": "102012345678",
+                  "Nome Completo": "Maria de Souza",
+                  "Data de Nascimento": "26/02/2000",
+                  "CPF": "12345698741",
+                  "AtendimentoEspecializado": "Prova Ampliada",
+                  "Tempo Adicional": "60",
+                  "AtendimentoEspecifico": "Lactante"
+                },
+                {
+                  "Inscricao": "102012345679",
+                  "Nome Completo": "Livia de Souza",
+                  "Data de Nascimento": "23/05/2002",
+                  "CPF": "78945698741",
+                  "AtendimentoEspecializado": "Prova Ampliada",
+                  "Tempo Adicional": "60",
+                  "AtendimentoEspecifico": ""
+                }
+              ]
             },
             {
                "id": "2",
