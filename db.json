@@ -2,7 +2,13 @@
   "Blocos": [
     {
       "id": 1,
-      "Nome": "Bloco 1"
+      "Nome": "Bloco 1",
+      "Andares": [
+        {
+          "id": 1,
+          "Nome" : "Terreo"
+        }        
+      ]
     },
     {
       "id": 2,
