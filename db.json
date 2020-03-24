@@ -138,30 +138,6 @@
       "id": "2",
       "descricao": "Carteira de Trabalho"
     }
-  ],
-  "TiposdeIdentificacaoEspecial": [
-    {
-      "id": "1",
-      "descricao": "Fisionomia Diferente do Documento de Identificação"
-    },
-    {
-      "id": "2",
-      "descricao": "Documento Danificado e/ou Ilegivel"
-    }
-  ],
-  "DadosdeContato": [
-    {
-      "id": "1",
-      "descricao": "Cesgranrio",
-      "Telefone": "(21)2103-9600"
-    },
-    {
-      "id": "2",
-      "descricao": "FGV",
-      "Telefone": "(21)3799-5030"
-    }
-  ],
-  "profile": {
-    "name": "Inep"
-  }
+  ]
+  
 }
