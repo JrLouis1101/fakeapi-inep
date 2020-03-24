@@ -1,8 +1,12 @@
 {
-  "posts": [
+  "Blocos": [
     {
       "id": 1,
-      "title": "hello"
+      "Nome": "Bloco 1"
+    },
+    {
+      "id": 2,
+      "Nome": "Bloco 2"
     }
   ],
   "profile": {
