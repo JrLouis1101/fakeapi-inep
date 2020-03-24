@@ -1,0 +1,178 @@
+﻿{
+  "Coordenacao": "50001",
+  "Event_Id": "1285",
+  "CPF": "12345678910",
+  "Nome Completo": "Joao da Silva",
+  "Blocos": {
+    "Bloco": [
+      {
+        "id": "1",
+        "Nome": "Bloco 1",
+        "Andares": {
+          "Andar": [
+            {
+              "id": "1",
+              "Nome": "Terreo",
+              "Salas": {
+                "Sala": [
+                  {
+                    "id": "1",
+                    "Nome": "Sala 1",
+                    "qtdParticipantes": "02",
+                    "Atendimento Especial": "S",
+                    "Participantes": {
+                      "Participante": [
+                        {
+                          "Inscricao": "102012345678",
+                          "Nome Completo": "Maria de Souza",
+                          "Data de Nascimento": "26/02/2000",
+                          "CPF": "12345698741",
+                          "AtendimentoEspecializado": "Prova Ampliada",
+                          "Tempo Adicional": "60",
+                          "AtendimentoEspecifico": "Lactante"
+                        },
+                        {
+                          "Inscricao": "102012345679",
+                          "Nome Completo": "Livia de Souza",
+                          "Data de Nascimento": "23/05/2002",
+                          "CPF": "78945698741",
+                          "AtendimentoEspecializado": "Prova Ampliada",
+                          "Tempo Adicional": "60",
+                          "AtendimentoEspecifico": ""
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "id": "2",
+                    "Nome": "Sala 2",
+                    "qtdParticipantes": "02",
+                    "Atendimento Especial": "N",
+                    "Participantes": {
+                      "Participante": [
+                        {
+                          "Inscricao": "102012345680",
+                          "Nome Completo": "Joao Nascimento",
+                          "Data de Nascimento": "02/08/2001",
+                          "CPF": "12342228741",
+                          "AtendimentoEspecializado": "",
+                          "Tempo Adicional": "",
+                          "AtendimentoEspecifico": ""
+                        },
+                        {
+                          "Inscricao": "102012345679",
+                          "Nome Completo": "Livia de Souza",
+                          "Data de Nascimento": "23/05/2002",
+                          "CPF": "78945698741",
+                          "AtendimentoEspecializado": "",
+                          "Tempo Adicional": "",
+                          "AtendimentoEspecifico": ""
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "Malotes": [
+    {
+      "ip": "IP32222222BR",
+      "turno": "tarde"
+    },
+    {
+      "ip": "IP32222222BR",
+      "turno": "tarde"
+    }
+  ],
+  "MotivosEliminacao": [
+    {
+      "id": "1",
+      "descricao": "Prestar, em qualquer documento e ou no sistema de inscrição, declaração falsa ou inexata. (subitem 16.1.1 do Edital)"
+    },
+    {
+      "id": "2",
+      "descricao": "Pertubar, de qualquer modo, a ordem no local de aplicação das provas. (subitem 16.1.2 do Edital)"
+    },
+    {
+      "id": "3",
+      "descricao": "Comunicar-se verbalmente, por escrito ou por qualquer outra forma, com qualquer pessoa que nao seja o aplicador ou o fiscal, a partir das 13h (horario de Brasília-DF).(subitem 16.1.3 do Edital)"
+    }
+  ],
+  "QuestoesOutrasOcorrencias": [
+    {
+      "id": "1",
+      "descricao": "Houve cartão-resposta/folha de redação reserva utilizado?",
+      "respostasPossiveis": [
+        {
+          "id": "1",
+          "descricao": "SIM"
+        },
+        {
+          "id": "2",
+          "descricao": "NÃO"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "descricao": "Houve participante que não realizou o exame por não apresentar documento de identificação ou por apresentar documento não permitido no edital?",
+      "respostasPossiveis": [
+        {
+          "id": "1",
+          "descricao": "SIM"
+        },
+        {
+          "id": "2",
+          "descricao": "NÃO"
+        }
+      ]
+    }
+  ],
+  "MotivosdeImpedimento": [
+    {
+      "id": "1",
+      "descricao": "DoençaInfectocontagiosa"
+    },
+    {
+      "id": "2",
+      "descricao": "DocumentoInvalido"
+    }
+  ],
+  "DocumentosNaoPermitidos": [
+    {
+      "id": "1",
+      "descricao": "Carteira de Estudante"
+    },
+    {
+      "id": "2",
+      "descricao": "Carteira de Trabalho"
+    }
+  ],
+  "TiposdeIdentificacaoEspecial": [
+    {
+      "id": "1",
+      "descricao": "Fisionomia Diferente do Documento de Identificação"
+    },
+    {
+      "id": "2",
+      "descricao": "Documento Danificado e/ou Ilegivel"
+    }
+  ],
+  "DadosdeContato": [
+    {
+      "id": "1",
+      "descricao": "Cesgranrio",
+      "Telefone": "(21)2103-9600"
+    },
+    {
+      "id": "2",
+      "descricao": "FGV",
+      "Telefone": "(21)3799-5030"
+    }
+  ]
+}
