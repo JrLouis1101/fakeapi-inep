@@ -118,5 +118,15 @@
         }
       ]
     }
+  ],
+  "MotivosdeImpedimento": [
+    {
+      "id": "1",
+      "descricao": "DoençaInfectocontagiosa"
+    },
+    {
+      "id": "2",
+      "descricao": "DocumentoInvalido"
+    }
   ]
 }
