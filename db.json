@@ -38,7 +38,27 @@
                "id": "2",
                "Nome": "Sala 2",
                "qtdParticipantes": "02",
-               "Atendimento Especial": "N"
+               "Atendimento Especial": "N",
+               "Participantes": [
+                 {
+                  "Inscricao": "102012345680",
+                  "Nome Completo": "Joao Nascimento",
+                  "Data de Nascimento": "02/08/2001",
+                  "CPF": "12342228741",
+                  "AtendimentoEspecializado": "",
+                  "Tempo Adicional": "",
+                  "AtendimentoEspecifico": ""
+                },
+                {
+                  "Inscricao": "102012345679",
+                  "Nome Completo": "Livia de Souza",
+                  "Data de Nascimento": "23/05/2002",
+                  "CPF": "78945698741",
+                  "AtendimentoEspecializado": "",
+                  "Tempo Adicional": "",
+                  "AtendimentoEspecifico": ""
+                }
+               ]
             }
           ] 
         }        
@@ -47,6 +67,16 @@
     {
       "id": 2,
       "Nome": "Bloco 2"
+    }
+  ],
+  "Malotes": [
+    {
+      "ip": "IP32222222BR",
+      "turno": "tarde"
+    },
+    {
+      "ip": "IP32222222BR",
+      "turno": "tarde"
     }
   ],
   "profile": {
